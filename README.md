@@ -1,2 +1,2 @@
 # Eurorack
-Eurorack modules
+Eurorack modules & stuff
